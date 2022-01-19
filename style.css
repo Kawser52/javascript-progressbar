@@ -28,7 +28,6 @@ body{
     width: 100%;
     height: 4px;
     z-index: -1;
-    transition: .4s ease;
 }
 
 .progress{
@@ -41,4 +40,11 @@ body{
     height: 4px;
     z-index: -1;
     transition: .4s ease;
+}
+.circle{
+    background-color: crimson;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    text-align: center;
 }
